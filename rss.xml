@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Direct Imaging Solutions]]></title>
         <description><![CDATA[Direct Imaging Solutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/direct-imaging-solutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 22:19:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 00:44:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/direct-imaging-solutions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Direct Imaging Solutions LLC. is the industry leading company for all of your document imaging needs. With our passionate, professional team and high performance equipment, Direct Imaging Solutions offers the best service with a distinctive end product. We have uniquely developed our imaging solutions to operate onsite at your office or ours. We operate on a nationwide level  which offers customized solutions for any business.</p>]]></description>
-            <link>undefined434086e3-4f7e-4e3c-bc30-22206c2a58da/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e590e8b-cf50-4ab3-839e-6cc6dc3f3cc9.jpg">]]></description>
+            <link>https://thegrid.ai/direct-imaging-solutions/434086e3-4f7e-4e3c-bc30-22206c2a58da/index.html</link>
             <guid isPermaLink="false">434086e3-4f7e-4e3c-bc30-22206c2a58da</guid>
-            <pubDate>Sun, 14 Feb 2016 22:19:48 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 00:44:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
